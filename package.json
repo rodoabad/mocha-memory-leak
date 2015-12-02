@@ -1,0 +1,22 @@
+{
+  "name": "mocha-memory-leak",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodoabad/mocha-memory-leak.git"
+  },
+  "author": "Rodo Abad <rodoabad@gmail.com> (https://github.com/rodoabad)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rodoabad/mocha-memory-leak/issues"
+  },
+  "homepage": "https://github.com/rodoabad/mocha-memory-leak#readme",
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}
