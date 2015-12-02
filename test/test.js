@@ -17,6 +17,12 @@
 
       });
 
+      afterEach(function () {
+
+        suite = null;
+
+      });
+
       it('should do something', function () {
 
         suite.isLeaking = true;
